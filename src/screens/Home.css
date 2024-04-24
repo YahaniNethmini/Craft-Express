@@ -1,0 +1,28 @@
+.bg-image {
+  width: 100%;
+  height: auto;
+}
+
+.logo-image {
+  width: 80px;
+  height: auto;
+}
+
+.custom-table {
+  width: 100%;
+}
+
+.column1 {
+  width: 30%;
+}
+
+.column2 {
+  width: 70%;
+  background-color: #763c03;
+}
+
+.font-container {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: white;
+}

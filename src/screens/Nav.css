@@ -1,0 +1,53 @@
+.custom-table-nav {
+    width: 100%;
+    background-color: white;
+  }
+  
+  .logo-container {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center align items vertically */
+  }
+  
+  .logo-image {
+    width: 10%;
+  }
+  
+  .logo-name {
+    margin-left: 10px; /* Adjust the margin between logo and name */
+  }  
+  
+  .btn1{
+    background-color: #532403; /* New button color */
+    color: white; /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    border-radius: 10px;
+  }
+  
+  .btn2{
+    background-color: #532403; /* New button color */
+    color: white; /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    border-radius: 10px;
+  }
+  
+  .btn3{
+    background-color: #532403; /* New button color */
+    color: white; /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    border-radius: 10px;
+  }
+  
+  .btn4{
+    background-color: #532403; /* New button color */
+    color: white; /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    border-radius: 10px;
+  }

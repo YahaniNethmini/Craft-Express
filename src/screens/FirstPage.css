@@ -1,0 +1,43 @@
+.first-page-container {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    filter: brightness(0.8);
+  }
+ 
+  .h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+  }
+
+  .box-login{
+    background-color: white;
+    color: brown; /* Text color */
+    border: none;
+    width: 200px;
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+  .box-signup{
+    background-color: white;
+    color: brown; /* Text color */
+    border: none;
+    width: 200px;
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+  

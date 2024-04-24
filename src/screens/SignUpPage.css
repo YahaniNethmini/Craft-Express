@@ -1,0 +1,32 @@
+.login-table{
+    width: 100%; 
+ }
+ 
+ .img{
+     width: 50%;
+ }
+ 
+ .log-in{
+     background-color: #532403;
+     text-align: center;
+ }
+ 
+ .login-button{
+     background-color: white; /* New button color */
+     color: brown; /* Text color */
+     border: none; /* Remove button border */
+     padding: 10px 20px; /* Adjust padding as needed */
+     cursor: pointer; /* Add cursor pointer on hover */
+     border-radius: 10px;
+ }
+ 
+ .signup-button{
+     background-color: white; /* New button color */
+     color: brown; /* Text color */
+     border: none; /* Remove button border */
+     padding: 10px 20px; /* Adjust padding as needed */
+     cursor: pointer; /* Add cursor pointer on hover */
+     border-radius: 10px;
+ }
+ 
+ 
